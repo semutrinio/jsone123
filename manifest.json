@@ -1,0 +1,38 @@
+{
+  "name": "SOAL14.ONLINE",
+  "short_name": "SOAL14.ONLINE",
+  "start_url": "https://soal14.blogspot.com/",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#2B0C93",
+  "description": "SOAL-SOAL ONLINE SD/MI",
+  "icons": [{
+    "src": "https://1.bp.blogspot.com/-GbpN40Uu2r0/XSUv9helt-I/AAAAAAAAAJw/wh4syOhVRk4IkYi0KllBWY13CaRFijPaQCLcBGAs/s1600/android-icon-48x48.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-2rLqcm-FMSI/XSUwN3eQ8nI/AAAAAAAAAJ4/6LWCoge9zXgJNi3h5vwFNxHbnIbm1wKnACLcBGAs/s1600/android-icon-72x72.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-nxcHdJMBlHs/XSUwbhXXa_I/AAAAAAAAAJ8/y0VQfyxqdM8pTOIR9iCNTjvLXP27XhVbQCLcBGAs/s1600/android-icon-96x96.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-NQ3eWSGmeqM/XSUwrSYFDVI/AAAAAAAAAKE/QHLfPaGdPp8_cXzu9se1YDaoXrcieEpQACLcBGAs/s1600/android-icon-144x144.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-dOhRYs3EDDE/XSUxDAlrdNI/AAAAAAAAAKU/gOcu3VsIt4k94PRg5ElkajB8pRYqfjQJQCLcBGAs/s1600/ms-icon-150x150.png",
+    "sizes": "150x150",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-lsuMTwZnXfw/XSUxcnOiR5I/AAAAAAAAAKc/WBOODIn2hj42DQ5jqKL6fTKXSVZnf_WHQCLcBGAs/s1600/apple-icon-180x180.png",
+    "sizes": "180x180",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-WgtmFirIKgE/XSUx14jiuYI/AAAAAAAAAKk/wDcfC1HwjCoi93Zbm4iNUgf0rtdoQr6fACLcBGAs/s1600/ms-icon-310x310.png",
+    "sizes": "310x310",
+    "type": "image/png"
+  }]
+}
